@@ -8,5 +8,4 @@ Finds the path with <a href="https://en.wikipedia.org/wiki/A*_search_algorithm">
 <br>
 
 ### Demo 
-
-![Demo](https://github.com/dgjinovci/MazeGenratorAndRobotNavigationPy/blob/master/demo.gif)
+<img src="https://github.com/dgjinovci/MazeGenratorAndRobotNavigationPy/blob/master/demo.gif" width="400" height="400" />
